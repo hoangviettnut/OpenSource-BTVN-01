@@ -27,4 +27,25 @@ Các Domain đã được cấu hình:
 Status: healthy
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/01a037a7-71d2-4696-a941-b830807e5486" /><br>
 ## 7. Kiểm tra url sub-domain đã hoạt động public cho mọi end-user
-Sử dụng điện thoại, bật 4g để truy cập:
+### Sử dụng điện thoại, bật 4g để truy cập:
+Truy cập luonghoangviet.io.vn:<br>
+![z7712960157234_35cf699a14c7fef7440bf42bf03d15ef](https://github.com/user-attachments/assets/f6df70d4-13fd-4fb7-bd9b-b0498c0aa8a0)
+Truy cập nodered.luonghoangviet.io.vn:<br>
+![z7712960160356_cb65f731a0492f4333aadc61dfd8a5cc](https://github.com/user-attachments/assets/01c4578d-abc7-4a75-96b3-3297638cba27)
+### Sử dụng web: https://httpstatus.io/ để check global:
+Truy cập luonghoangviet.io.vn:<br>
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/15d33def-ac21-473b-877a-f7f7ec39339f" />
+Khi check cho nodered.luonghoangviet.io.vn sẽ bị báo Error do CloudFlare ngăn chặn Bot và chống tấn công DDoS và bản chất yêu cầu connect liên tục của WebApp nodered.
+### Kiểm tra bản ghi DNS:
+Dùng lệnh "nslookup ten_mien" để kiểm tra Status:
+<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/879a8f42-3428-4641-b5d3-ea218b3e11e6" /><br>
+
+Cấu trúc thư mục:
+<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/616c2dfc-929f-4e2a-b8b9-317994662e4c" />
+
+
+
+
+
+
+
