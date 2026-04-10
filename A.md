@@ -22,10 +22,10 @@ Truy cập dash.clouflare.com
 Lấy token và sửa file Docker-compose.yml:
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/8e0c78e2-9b11-4306-b506-728063711753" />
 Sau khi cài đặt, làm theo hướng dẫn xong, CloudFlare sẽ báo trạng thái Connected:
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/eef8a7c4-2178-4381-86bd-ca2dc607c907" />
-### B4: Cài đặt Route Tunnel
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/eef8a7c4-2178-4381-86bd-ca2dc607c907" /><br>
+### B4: Cài đặt Route Tunnel<br>
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/31af806e-d27a-413e-b691-1d5abbad6a72" />
-### B5: Kiểm tra trạng thái Tunnel:
+### B5: Kiểm tra trạng thái Tunnel<br>
 Status: healthy
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/ca8e11d2-28fb-45c4-94c7-49e7c90c6b53" />
 
