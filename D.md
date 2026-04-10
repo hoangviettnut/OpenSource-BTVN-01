@@ -13,10 +13,10 @@ Tại ./myapi dùng lệnh "nano Dockerfile" để edit và save file:
 ## 5. Sửa đổi docker-compose để phù hợp với phần này: 
 Quay về ~/luongviet
 Dùng lệnh "nano docker-compose.yml" để edit file, thêm services myapi: 
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/edeaf6d0-5ad6-4a77-a71b-00ed3202bdfb" /><br>
+<img width="1494" height="762" alt="image" src="https://github.com/user-attachments/assets/059155f6-b59d-406f-97ca-31d941f78723" /><br>
 ## 6. Sửa đổi nginx/nginx.conf để /api trỏ tới service myapp cổng 9630
 Truy cập nginx sau đó dùng lệnh "nano nginx.conf" để chỉnh sửa cho phù hợp với yêu cầu:
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/8a8b1282-363b-4688-877e-23ab85433396" />
+<img width="1494" height="762" alt="image" src="https://github.com/user-attachments/assets/ce20c164-0c14-44fc-a244-e89eed4c88ce" />
 Sau khi edit xong docker-compose.yml và nginx.conf, dùng lệnh "docker compose up -d --build" để tải và cài đặt python, flask. Dùng thêm "docker compose restart nginx" phòng trường hợp nginx không tự cập nhật:
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/ab2ec8c1-4449-4c38-b675-18fdc8a90969" />
 Truy cập: "http://luonghoangviet.io.vn/api/" để kiểm tra:
