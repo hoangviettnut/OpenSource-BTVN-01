@@ -26,7 +26,7 @@ Sau khi cài đặt, làm theo hướng dẫn xong, CloudFlare sẽ báo trạng
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/4dd0465c-c6fb-4f09-b7c4-c0765cd1fccd" /><br>
 
 ### B4: Cài đặt Route Tunnel<br>
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/31af806e-d27a-413e-b691-1d5abbad6a72" /><br>
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/b6a134c4-c241-4668-8ede-d9d2c0abe746" /<br>
 
 ### B5: Kiểm tra trạng thái Tunnel<br>
 
