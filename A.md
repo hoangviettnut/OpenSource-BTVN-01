@@ -15,9 +15,9 @@ Thông báo: Your domain is now protected by Cloudflare. Khi này đã kết n�
 ## 6. CẤU HÌNH TUNNEL ĐỂ CÁC PHẦN SAU CÓ THỂ TRUY CẬP TRỰC TIẾP TỪ INTERNET:
 Truy cập dash.clouflare.com
 ### B1: Chọn Zero Trust rồi Add Tunnel:
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/5d51996c-5abd-4622-a98a-2f62c83f1700" />
-### B2: Đặt tên cho Tunnel (eg. VietDepTrai)
-### B3: Cài đặt và run Connector theo hướng dẫn Config trên Cloudflare
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/5d51996c-5abd-4622-a98a-2f62c83f1700" /><br>
+### B2: Đặt tên cho Tunnel (eg. VietDepTrai)<br>
+### B3: Cài đặt và run Connector theo hướng dẫn Config trên Cloudflare<br>
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/a07049af-c216-412a-9e57-32757de5094e" />
 Lấy token và sửa file Docker-compose.yml:
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/8e0c78e2-9b11-4306-b506-728063711753" />
