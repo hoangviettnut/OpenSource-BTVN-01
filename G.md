@@ -18,8 +18,13 @@ Sau khi cài đặt, làm theo hướng dẫn xong, CloudFlare sẽ báo trạng
 Dùng lệnh "docker compose up -d --build":
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/102df3bb-2c64-4402-82b5-9d3aa298a342" /><br>
 
-### B4: Cài đặt Route Tunnel<br>
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/31af806e-d27a-413e-b691-1d5abbad6a72" /><br>
-### B5: Kiểm tra trạng thái Tunnel<br>
+## 5. Public ứng dụng (Yêu cầu đã được làm chi tiết trong các phần trước đó)
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/b6a134c4-c241-4668-8ede-d9d2c0abe746" /><br>
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/e589e1e1-bc56-4d9d-8cdc-5db3683ce376" /><br>
+Các Domain đã được cấu hình:
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/6b477c68-d26e-407c-9c82-6b3c174f6785" />
+## 6. Kiểm tra trạng thái Tunnel<br>
 Status: healthy
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/684d4ca8-10ce-46af-8544-cde056476f1e" /><br>
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/01a037a7-71d2-4696-a941-b830807e5486" /><br>
+## 7. Kiểm tra url sub-domain đã hoạt động public cho mọi end-user
+Sử dụng điện thoại, bật 4g để truy cập:
