@@ -8,17 +8,19 @@ Dùng lệnh "mkdir ./webcuaviet"
 ## 4.Tạo file ./webcuaviet/index.html. Với nội dung là thông tin cá nhân
 Truy cập "cd ./webcuaviet"
 Dùng lệnh "nano index.html" để edit và lưu file:
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/c3daf78d-bd94-46a6-b4a9-f8db5131d728" />
+<img width="1494" height="762" alt="image" src="https://github.com/user-attachments/assets/242d638a-7d0a-447b-bb4b-e15809ec527a" />
 ## 5.Tạo file docker-compose.yml để chứa các dịch vụ yêu cầu:
 Quay về ~/luongviet
 Dùng lệnh "nano docker-compose.yml" để edit rồi lưu file: 
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/93486d55-c061-4ff3-a7ef-92432e377945" />
+<img width="1494" height="762" alt="image" src="https://github.com/user-attachments/assets/325225ed-50bd-4c7d-9ad7-2ef50cab048e" /><br>
 ## 6. Edit file ./nginx/nginx.conf thực hiện các yêu cầu:
-Quay về ~/luongviet
-Dùng lệnh "mkdir ./nginx" tạo directory 
-Dùng lệnh "nano nginx.conf" để edit và lưu file:
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/6b8bad52-db07-49a8-821e-a342ec29c3f2" />
-Tại đây Sub-Domain trỏ về nodered là: nodered.luonghoangviet.io.vn
+Quay về ~/luongviet<br>
+Dùng lệnh "mkdir ./nginx" tạo directory<br> 
+Dùng lệnh "nano nginx.conf" để edit và lưu file:<br>
+<img width="1494" height="762" alt="image" src="https://github.com/user-attachments/assets/c16f0b11-793d-4b96-8596-a01220e9cc64" /><br>
+Cấu hình nginx xong chuyển sang Cloudflare để thêm subdomain cho nodered<br>
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/a4b30ef4-ad6f-4c77-acd8-9d3bdf023383" />
+Tại đây Sub-Domain trỏ về nodered là: nodered.luonghoangviet.io.vn<br>
 ## 7. Edit file ./nodered/settings.js để nodered bắt buộc đăng nhập
 Tại ~/luongviet
 Dùng lệnh "mkdir ./nodered" tạo directory
