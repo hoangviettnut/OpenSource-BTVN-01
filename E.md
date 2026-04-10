@@ -13,7 +13,7 @@ Dùng lệnh "docker ps" hoặc "docker compose ps":
 ### B2: Kiểm tra API, truy cập: http://192.168.1.3:9630/
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/0660a521-3ade-49d3-87e7-a700478d7306" /><br>
 ### B3: Kiểm tra Nginx, truy cập http://192.168.1.3:80/
-<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/cea974a1-aa16-41bf-9e53-2ad18c7b04dc" />
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/cea974a1-aa16-41bf-9e53-2ad18c7b04dc" /><br>
 ## 5. Sử dụng nodered để tạo get API đơn giản: 
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/c1fd7907-1a2b-4073-8085-daa8d003a543" /><br>
 Nodered đã được cấu cấu hình trong nginx.conf.<br>
