@@ -18,7 +18,7 @@ Dùng lệnh "nano docker-compose.yml" để edit file, thêm services myapi:
 Truy cập nginx sau đó dùng lệnh "nano nginx.conf" để chỉnh sửa cho phù hợp với yêu cầu:
 <img width="1494" height="762" alt="image" src="https://github.com/user-attachments/assets/ce20c164-0c14-44fc-a244-e89eed4c88ce" />
 Sau khi edit xong docker-compose.yml và nginx.conf, dùng lệnh "docker compose up -d --build" để tải và cài đặt python, flask. Dùng thêm "docker compose restart nginx" phòng trường hợp nginx không tự cập nhật:
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/ab2ec8c1-4449-4c38-b675-18fdc8a90969" />
+<img width="1494" height="762" alt="image" src="https://github.com/user-attachments/assets/1e5c31cc-b4cc-472c-8c93-89a80b0928dd" /><br>
 Truy cập: "http://luonghoangviet.io.vn/api/" để kiểm tra:
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/eb7723a0-1919-4e79-b18b-f97454ee8895" />
 
