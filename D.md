@@ -3,7 +3,7 @@
 Tại ~/luongviet dùng lệnh "mkdir ./myapi"
 ## 2. Tạo file app.py
 Tại ./myapi dùng lệnh "nano app.py" để edit và save file:
-<img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/4fc926cb-20f8-4899-b529-56dcc2d9f7d7" />
+<img width="1494" height="762" alt="image" src="https://github.com/user-attachments/assets/4312bef1-3930-4a6c-8f80-692714de4df2" />
 ## 3. Tạo file requirements.txt
 Tại ./myapi api dùng lệnh "nano requirements.txt" để edit và save file:
 <img width="1483" height="762" alt="image" src="https://github.com/user-attachments/assets/3cf1aa87-3618-411f-8dd7-ef6cd0945932" />
